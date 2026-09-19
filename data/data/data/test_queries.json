@@ -1,0 +1,27 @@
+[
+  {
+    "id": "query_001",
+    "product": "An AI coding assistant designed for college students",
+    "question": "Would this audience pay ₹999 per month for this product?"
+  },
+  {
+    "id": "query_002",
+    "product": "An AI-powered study planner that creates personalized study schedules",
+    "question": "What would make this audience interested in using this product?"
+  },
+  {
+    "id": "query_003",
+    "product": "A career platform that provides AI-generated interview practice",
+    "question": "What concerns might this audience have before using this product?"
+  },
+  {
+    "id": "query_004",
+    "product": "A productivity app that automatically organizes assignments, deadlines, and study tasks",
+    "question": "What factors would influence this audience's decision to use this product?"
+  },
+  {
+    "id": "query_005",
+    "product": "A new AI learning platform with a monthly subscription",
+    "question": "How might this audience compare this product with free alternatives?"
+  }
+]
