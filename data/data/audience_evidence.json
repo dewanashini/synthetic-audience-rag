@@ -1,0 +1,50 @@
+[
+  {
+    "id": "obs_001",
+    "category": "price_sensitivity",
+    "text": "Undergraduate students are generally price-sensitive and are more likely to consider a product when it offers a free tier, student pricing, or a clearly demonstrated value for money.",
+    "source": "synthetic audience research"
+  },
+  {
+    "id": "obs_002",
+    "category": "career_value",
+    "text": "Students are more willing to spend time or money on tools that they believe can improve their technical skills, strengthen their portfolio, or increase their chances of getting an internship.",
+    "source": "synthetic audience research"
+  },
+  {
+    "id": "obs_003",
+    "category": "time_constraints",
+    "text": "Students often have limited time because of lectures, assignments, examinations, projects, and extracurricular activities. Tools that reduce effort or save time are therefore attractive.",
+    "source": "synthetic audience research"
+  },
+  {
+    "id": "obs_004",
+    "category": "ease_of_use",
+    "text": "Students tend to prefer tools that are easy to understand and require little setup. A technically powerful product may be rejected if it has a complicated onboarding process.",
+    "source": "synthetic audience research"
+  },
+  {
+    "id": "obs_005",
+    "category": "trust",
+    "text": "Students are more likely to trust a new technology product when they can see demonstrations, examples, reviews, or evidence that it works in realistic situations.",
+    "source": "synthetic audience research"
+  },
+  {
+    "id": "obs_006",
+    "category": "ai_adoption",
+    "text": "Technology-oriented students are generally familiar with AI tools and may be interested in experimenting with new AI products, but they may compare a new tool with existing free alternatives before adopting it.",
+    "source": "synthetic audience research"
+  },
+  {
+    "id": "obs_007",
+    "category": "learning_preferences",
+    "text": "Students often prefer practical learning experiences such as projects, interactive examples, coding exercises, and real-world applications over purely theoretical explanations.",
+    "source": "synthetic audience research"
+  },
+  {
+    "id": "obs_008",
+    "category": "decision_making",
+    "text": "When evaluating a new student-focused product, students may consider usefulness, cost, time required, ease of use, career relevance, and whether similar functionality is already available elsewhere.",
+    "source": "synthetic audience research"
+  }
+]
