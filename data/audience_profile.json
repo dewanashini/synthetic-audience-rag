@@ -1,0 +1,39 @@
+{
+  "audience_name": "Tech-Savvy Undergraduate Students",
+
+  "demographics": {
+    "age_range": "18-24",
+    "education": "Undergraduate",
+    "technical_level": "Beginner to Intermediate"
+  },
+
+  "interests": [
+    "Technology",
+    "Artificial Intelligence",
+    "Career Development",
+    "Productivity",
+    "Programming"
+  ],
+
+  "goals": [
+    "Improve technical skills",
+    "Build projects",
+    "Find internships",
+    "Improve employability"
+  ],
+
+  "pain_points": [
+    "Limited time",
+    "Difficulty choosing what to learn",
+    "Lack of practical experience",
+    "Difficulty finding good learning resources"
+  ],
+
+  "decision_factors": [
+    "Usefulness",
+    "Price",
+    "Ease of use",
+    "Career value",
+    "Time required"
+  ]
+}
